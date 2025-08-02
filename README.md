@@ -15,7 +15,7 @@ matplotlib 3.10
 
 
 * 视觉效果  
-[视觉效果](sample/depth_magnitude_diff_bands.gif "视觉效果")  
+![视觉效果](sample/depth_magnitude_diff_bands.gif "视觉效果")  
 
 
 * 基本功能
